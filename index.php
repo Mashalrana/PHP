@@ -17,6 +17,7 @@ $naam = "JouwNaam";
 echo "Welkom " . $naam . "!";
 ?>
 
+
 <?php
 // deze code bevat veel fouten
 // haal alle fouten eruit!
