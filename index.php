@@ -21,7 +21,7 @@ echo "Welkom " . $naam . "!";
 <?php
 // deze code bevat veel fouten
 // haal alle fouten eruit!
-$mijnNaam = "Carl";
-$jouwNaam = "Camel";
+$mijnNaam = "jules";
+$jouwNaam = "Mo";
 echo $mijnNaam . " zit bij " . $jouwNaam . " in de klas!";
 ?>
