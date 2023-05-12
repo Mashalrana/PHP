@@ -13,7 +13,7 @@ echo $resultaat;
 ?>
 
 <?php
-$naam = "JouwNaam";
+$naam = "Mashal";
 echo "Welkom " . $naam . "!";
 ?>
 
